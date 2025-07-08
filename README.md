@@ -68,9 +68,8 @@
 
 ## 🌐 My CP Profiles
 
-- [🔗 LeetCode](https://leetcode.com/your_username)
-- [🔗 GFG](https://auth.geeksforgeeks.org/user/your_username)
-
+- [🔗 LeetCode](https://leetcode.com/u/Swapneel14/)
+- [🔗 GFG](https://www.geeksforgeeks.org/user/sarkarswafmd7/?_gl=1*hn0i2p*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu7ryJga9GTTzjjztIyVGa0lTMbyJeZKfUQ42ylNSNA-RmhZtXQI4mhoCtyoQAvD_BwE&gbraid=0AAAAAC9yBkBtvL-Wu5tX1vxbVJ57yJ6QX)
 ---
 
 <p align="center">
