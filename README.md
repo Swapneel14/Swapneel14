@@ -41,6 +41,49 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Swapneel14&theme=radical" />
 </p>
+<h1 align="center">🚀 Competitive Programming Journey</h1>
+
+<p align="center">Welcome to my GitHub! I'm passionate about solving algorithmic challenges and improving my problem-solving skills across various platforms.</p>
+
+---
+
+## 🧠 <u>Problem Solving Stats</u>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-150%2B-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/GFG-60%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
+</p>
+
+<h3 align="center">🔥 Total Solved: <b>200+ Problems</b></h3>
+
+---
+
+## 🏹 My CP Focus
+
+- 🔵 Mastering Data Structures & Algorithms
+- 🟢 Participating in contests weekly
+- 🚀 Solving problems daily for consistency
+
+---
+
+## 🌐 My CP Profiles
+
+- [🔗 LeetCode](https://leetcode.com/your_username)
+- [🔗 GFG](https://auth.geeksforgeeks.org/user/your_username)
+
+---
+
+<p align="center">
+  <i>“Consistency is more important than intensity.”</i><br>
+  <b>– Me, to Myself Daily</b>
+</p>
+
+---
+
+<p align="center">
+  📌 Let's connect and grow together in the world of problem solving!
+</p>
+
 
 ---
 
