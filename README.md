@@ -50,11 +50,11 @@
 ## 🧠 <u>Problem Solving Stats</u>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-150%2B-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/LeetCode-200%2B-blue?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/GFG-60%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
 </p>
 
-<h3 align="center">🔥 Total Solved: <b>200+ Problems</b></h3>
+<h3 align="center">🔥 Total Solved: <b>250+ Problems</b></h3>
 
 ---
 
