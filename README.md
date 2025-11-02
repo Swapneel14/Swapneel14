@@ -1,108 +1,71 @@
-<h1 align="center">Hi, I'm Swapneel Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Swapneel Sarkar</h1>
+<h3 align="center">💻 A passionate developer & problem solver from IIEST Shibpur</h3>
+
+---
+
+### 🌟 About Me  
+- 🎓 I'm a B.Tech student at **IIEST Shibpur**  
+- 💡 I love solving DSA problems and building full-stack web apps  
+- 🚀 Currently exploring **Flutter** and **Backend Development (Node.js + Express + MongoDB)**  
+- 🧠 I regularly practice problems on **LeetCode** and **Codeforces**  
+- 📫 Reach me on: **[LinkedIn](https://www.linkedin.com/in/swapneel-sarkar-904944331/)** 
+
+---
+
+### ⚙️ Tech Stack  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swapneel-sarkar-904944331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:sarkarswapneel14@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Swapneel14/"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white" /></a>
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+  <!-- App Dev -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🧠 Competitive Programming Profiles  
+
+#### 🟠 LeetCode  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Swapneel14-orange)](https://leetcode.com/Swapneel14/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Swapneel14?theme=dark&ext=contest)
+
+#### 🔵 Codeforces  
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-Swapneel1421-blue)](https://codeforces.com/profile/Swapneel1421)  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Swapneel1421&theme=dark)
+
+---
+
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swapneel14&theme=algolia&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Swapneel14&show_icons=true&theme=radical" alt="github stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swapneel14&theme=radical" alt="streak stats" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapneel14&layout=compact&theme=radical" alt="top langs" />
 </p>
 
 ---
 
-### 💻 Tech Stack
-
-#### Programming Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### 🌐 Connect With Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swapneel14&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swapneel14&layout=compact&theme=radical" alt="Top languages" />
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:swapneel@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🏁 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swapneel14&theme=radical" />
-</p>
-<h1 align="center">🚀 Competitive Programming Journey</h1>
-
-<p align="center">Welcome to my GitHub! I'm passionate about solving algorithmic challenges and improving my problem-solving skills across various platforms.</p>
-
----
-
-## 🧠 <u>Problem Solving Stats</u>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B-blue?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/GFG-60%2B-brightgreen?style=for-the-badge&logo=geeksforgeeks" />
-</p>
-
-<h3 align="center">🔥 Total Solved: <b>250+ Problems</b></h3>
-
----
-
-## 🏹 My CP Focus
-
-- 🔵 Mastering Data Structures & Algorithms
-- 🟢 Participating in contests weekly
-- 🚀 Solving problems daily for consistency
-
----
-
-## 🌐 My CP Profiles
-
-- [🔗 LeetCode](https://leetcode.com/u/Swapneel14/)
-- [🔗 GFG](https://www.geeksforgeeks.org/user/sarkarswafmd7/?_gl=1*hn0i2p*_up*MQ..*_gs*MQ..&gclid=CjwKCAjwg7PDBhBxEiwAf1CVu7ryJga9GTTzjjztIyVGa0lTMbyJeZKfUQ42ylNSNA-RmhZtXQI4mhoCtyoQAvD_BwE&gbraid=0AAAAAC9yBkBtvL-Wu5tX1vxbVJ57yJ6QX)
----
-
-<p align="center">
-  <i>“Consistency is more important than intensity.”</i><br>
-  <b>– Me, to Myself Daily</b>
-</p>
-
----
-
-<p align="center">
-  📌 Let's connect and grow together in the world of problem solving!
-</p>
-
-
----
-
-### 🙌 Thank You for Visiting!
-
----
-
-
-
-<!--
-**Swapneel14/Swapneel14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my profile!** 😊  
