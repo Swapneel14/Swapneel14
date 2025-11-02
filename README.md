@@ -38,7 +38,7 @@
 
 #### 🟠 LeetCode  
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Swapneel14-orange)](https://leetcode.com/Swapneel14/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Swapneel14?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Swapneel14?theme=dark)
 
 #### 🔵 Codeforces  
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Swapneel1421-blue)](https://codeforces.com/profile/Swapneel1421)  
