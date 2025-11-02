@@ -39,6 +39,14 @@
 #### 🟠 LeetCode  
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-Swapneel14-orange)](https://leetcode.com/Swapneel14/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Swapneel14?theme=dark)
+### 🏅 My LeetCode Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100_Days_Challenge_2025-FFD700?style=for-the-badge&logo=leetcode&logoColor=white" alt="100 Days Badge 2025"/>
+  <img src="https://img.shields.io/badge/50_Days_Challenge_2025-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="50 Days Badge 2025"/>
+  <img src="https://img.shields.io/badge/July_Daily_Problem_Badge-1E90FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="July Daily Problem Badge"/>
+</p>
+
 
 #### 🔵 Codeforces  
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-Swapneel1421-blue)](https://codeforces.com/profile/Swapneel1421)  
