@@ -76,4 +76,4 @@
 
 ---
 
-⭐ **Thanks for visiting my profile!** 😊  
+⭐ **Thank You for visiting my profile!** 😊  
