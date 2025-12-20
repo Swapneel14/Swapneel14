@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  <img src="https://iconduck.com/icons/20451/matlab/svg/color.svg" alt="MATLAB" height="45"/>
+
 
 </p>
 
