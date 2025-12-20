@@ -10,7 +10,7 @@
 ## 🌟 About Me  
 - 🎓 B.Tech student at **IIEST Shibpur**  
 - 💡 Love solving **DSA** & building **full-stack web apps**  
-- 🚀 Exploring **Flutter** & **Backend (Node.js + Express + MongoDB)**  
+- 🚀 Exploring **Backend (Node.js + Express + MongoDB)**  
 - 🧠 Regular on **LeetCode** & **Codeforces**  
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/swapneel-sarkar-904944331/)**  
 
