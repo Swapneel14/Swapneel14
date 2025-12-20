@@ -23,14 +23,15 @@
   <img src="https://skillicons.dev/icons?i=c" height="45"/>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
 </p>
 
 ### 🌐 Development (Libraries, Frameworks & Tools)  
 <p align="center">
   <!-- Core Web -->
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
