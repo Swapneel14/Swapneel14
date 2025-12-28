@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/passportjs/passportjs-icon.svg" height="45"/>
+
 
 
 </p>
