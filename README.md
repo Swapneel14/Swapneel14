@@ -26,8 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/passportjs/passportjs-icon.svg" height="45"/>
-
+ 
 
 
 </p>
@@ -53,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
+   <img src="https://www.vectorlogo.zone/logos/passportjs/passportjs-icon.svg" height="45"/>
+
 </p>
 
 ---
