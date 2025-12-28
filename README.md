@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
-   <img src="https://www.vectorlogo.zone/logos/passportjs/passportjs-icon.svg" height="45"/>
+<img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black" height="45"/>
 
 </p>
 
