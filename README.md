@@ -63,6 +63,8 @@
   <img src="https://img.shields.io/badge/Passport.js-Authentication_Middleware-34E27A?style=for-the-badge&logo=passport&logoColor=black"/>
   <img src="https://img.shields.io/badge/Mongoose-ODM-800000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Connect--Flash-Flash_Messages-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chart.js-Data_Visualization-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
 </p>
 
 </p>
