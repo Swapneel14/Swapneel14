@@ -59,9 +59,12 @@
 ## 🔐 Authentication & Utilities  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Passport.js-Auth%20Middleware-34E27A?style=flat&logo=passport&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Mongoose-ODM-800000?style=flat&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Connect--Flash-Flash%20Messages-4B0082?style=flat"/>
+  <p align="center">
+  <img src="https://img.shields.io/badge/Passport.js-Authentication_Middleware-34E27A?style=for-the-badge&logo=passport&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mongoose-ODM-800000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect--Flash-Flash_Messages-4B0082?style=for-the-badge"/>
+</p>
+
 </p>
 
 
