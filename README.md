@@ -52,9 +52,18 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
-<img src="https://img.shields.io/badge/Passport.js-Authentication-34E27A?logo=passport&logoColor=black"/>
+
 
 </p>
+
+## 🔐 Authentication & Utilities  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Passport.js-Auth%20Middleware-34E27A?style=flat&logo=passport&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Mongoose-ODM-800000?style=flat&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect--Flash-Flash%20Messages-4B0082?style=flat"/>
+</p>
+
 
 ---
 
