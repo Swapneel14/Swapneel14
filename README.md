@@ -72,7 +72,8 @@
 ## ☁️ Media & Cloud
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudinary.svg" height="45"/>
+ <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="45" style="background:white; padding:6px; border-radius:8px;"/>
+
 
 </p>
 
