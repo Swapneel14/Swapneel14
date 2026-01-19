@@ -69,6 +69,14 @@
 
 </p>
 
+## ☁️ Media & Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="45"/>
+  <img src="https://img.shields.io/badge/Cloudinary-Image_&_Video_CDN-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+
 </p>
 
 
