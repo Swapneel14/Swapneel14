@@ -52,6 +52,8 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cloudinary" height="45"/>
+
 
 
 </p>
