@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cloudinary" height="45"/>
+  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="45" style="background:white; padding:6px; border-radius:8px;"/>
 
 
 
@@ -69,13 +69,6 @@
 
 </p>
 
-## ☁️ Media & Cloud
-
-<p align="center">
- <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="45" style="background:white; padding:6px; border-radius:8px;"/>
-
-
-</p>
 
 
 </p>
