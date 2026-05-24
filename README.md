@@ -26,6 +26,9 @@
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45" style="background:white; padding:6px; border-radius:8px;"/>
  
 
 
@@ -66,6 +69,8 @@
   <img src="https://img.shields.io/badge/Mongoose-ODM-800000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Connect--Flash-Flash_Messages-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Chart.js-Data_Visualization-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Auth-OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 </p>
 
