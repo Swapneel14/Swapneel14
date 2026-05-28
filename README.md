@@ -21,14 +21,16 @@
 ### 🧑‍💻 Programming Languages  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45"/>
   <img src="https://skillicons.dev/icons?i=java" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
   <img src="https://skillicons.dev/icons?i=html" height="45"/>
   <img src="https://skillicons.dev/icons?i=css" height="45"/>
+   <img src="https://skillicons.dev/icons?i=flutter" height="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" height="45"/>
   <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
-<img src="https://cdn.simpleicons.org/numpy/013243" height="45" style="background:white; padding:6px; border-radius:8px;"/>
+
  
 
 
@@ -49,13 +51,15 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 
   <!-- App Dev -->
-  <img src="https://skillicons.dev/icons?i=flutter" height="45"/>
+ 
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=github" height="45"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45"/>
   <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="45" style="background:white; padding:6px; border-radius:8px;"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="45" style="background:white; padding:6px; border-radius:8px;"/>
+  <img src="https://cdn.simpleicons.org/pandas/013243" height="45" style="background:white; padding:6px; border-radius:8px;"/>
 
 
 
