@@ -139,7 +139,6 @@
 ## 🟠 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Swapneel14-orange)](https://leetcode.com/Swapneel14/)
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Swapneel14?theme=dark&font=Baloo&ext=contest" />
 </p>
